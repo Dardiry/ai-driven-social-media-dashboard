@@ -28,7 +28,7 @@ Parameters:
   TwitterTermList:
     Description: List of terms for twitter to listen to
     Type: String
-    Default: "'AWS', 'VPC', 'EC2', 'RDS', 'S3'"
+    Default: "'SouthwestAir', 'USAirways', 'Air', 'JetBlue', 'united', 'AmericanAir', 'VirginAmerica', 'United'"
   TwitterLanguages:
     Description: List of languages to use for the twitter streaming reader
     Type: String
